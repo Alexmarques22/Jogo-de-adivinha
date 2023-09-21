@@ -1,0 +1,39 @@
+
+body{    
+
+text-align: center;
+
+
+}
+button{
+color: white;
+background-color: blue;
+
+}
+button:hover{
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor:pointer;
+
+
+
+}
+
+.sucesso h1{
+
+    color: #28a745;
+}
+.falha{
+    color: #007bff;
+
+
+
+}
+.erro{
+    color: #dc3545;
+
+
+
+}
